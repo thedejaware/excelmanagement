@@ -1,0 +1,14 @@
+D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\bin\Release\ExcelProcess.exe.config
+D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.csproj.ResolveComReference.cache
+D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\bin\Release\ExcelProcess.exe
+D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\bin\Release\ExcelProcess.pdb
+D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.Form1.resources
+D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.Properties.Resources.resources
+D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.SplashScreen.resources
+D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.csproj.GenerateResource.Cache
+D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.exe
+D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.pdb
+D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.csprojResolveAssemblyReference.cache
