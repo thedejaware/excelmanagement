@@ -24,3 +24,17 @@ C:\Users\ORKUNBALCI\Documents\GitHub\excelmanagement\ExcelManagement\ExcelProces
 C:\Users\ORKUNBALCI\Documents\GitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.Properties.Resources.resources
 C:\Users\ORKUNBALCI\Documents\GitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.SplashScreen.resources
 C:\Users\ORKUNBALCI\Documents\GitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.csproj.GenerateResource.Cache
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\bin\Release\ExcelProcess.exe.config
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.csproj.ResolveComReference.cache
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\bin\Release\ExcelProcess.exe
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\bin\Release\ExcelProcess.pdb
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.csprojResolveAssemblyReference.cache
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.Form1.resources
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.Properties.Resources.resources
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.SplashScreen.resources
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.csproj.GenerateResource.Cache
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.exe
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.pdb
