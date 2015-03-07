@@ -12,3 +12,17 @@ D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\obj\Debug\ExcelProcess.pdb
 D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\obj\Debug\Interop.Microsoft.Office.Core.dll
 D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\obj\Debug\ExcelProcess.csproj.ResolveComReference.cache
 D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\obj\Debug\ExcelProcess.SplashScreen.resources
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\bin\Debug\ExcelProcess.exe.config
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Debug\ExcelProcess.csproj.ResolveComReference.cache
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\bin\Debug\ExcelProcess.exe
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\bin\Debug\ExcelProcess.pdb
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Debug\ExcelProcess.csprojResolveAssemblyReference.cache
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Debug\ExcelProcess.Form1.resources
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Debug\ExcelProcess.Properties.Resources.resources
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Debug\ExcelProcess.SplashScreen.resources
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Debug\ExcelProcess.csproj.GenerateResource.Cache
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Debug\ExcelProcess.exe
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Debug\ExcelProcess.pdb

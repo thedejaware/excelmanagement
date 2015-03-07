@@ -61,6 +61,7 @@
             this.Controls.Add(this.grdExcel);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.grdExcel)).EndInit();
             this.ResumeLayout(false);
 
