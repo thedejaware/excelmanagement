@@ -12,3 +12,15 @@ D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.c
 D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.exe
 D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.pdb
 D:\Projects\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.csprojResolveAssemblyReference.cache
+C:\Users\ORKUNBALCI\Documents\GitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\bin\Release\ExcelProcess.exe.config
+C:\Users\ORKUNBALCI\Documents\GitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\ORKUNBALCI\Documents\GitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.csproj.ResolveComReference.cache
+C:\Users\ORKUNBALCI\Documents\GitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.exe
+C:\Users\ORKUNBALCI\Documents\GitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.pdb
+C:\Users\ORKUNBALCI\Documents\GitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\bin\Release\ExcelProcess.exe
+C:\Users\ORKUNBALCI\Documents\GitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\bin\Release\ExcelProcess.pdb
+C:\Users\ORKUNBALCI\Documents\GitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.csprojResolveAssemblyReference.cache
+C:\Users\ORKUNBALCI\Documents\GitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.Form1.resources
+C:\Users\ORKUNBALCI\Documents\GitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.Properties.Resources.resources
+C:\Users\ORKUNBALCI\Documents\GitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.SplashScreen.resources
+C:\Users\ORKUNBALCI\Documents\GitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Release\ExcelProcess.csproj.GenerateResource.Cache
