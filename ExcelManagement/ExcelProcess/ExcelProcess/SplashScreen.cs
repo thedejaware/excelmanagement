@@ -24,7 +24,7 @@ namespace ExcelProcess
         }
         private void openMainForm()
         {
-            Application.Run(new Form1());
+            Application.Run(new Form2());
         }
 
         private void timer1_Tick(object sender, EventArgs e)

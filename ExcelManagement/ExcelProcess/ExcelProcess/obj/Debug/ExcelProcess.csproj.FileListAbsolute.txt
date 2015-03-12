@@ -26,3 +26,5 @@ D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProces
 D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Debug\ExcelProcess.csproj.GenerateResource.Cache
 D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Debug\ExcelProcess.exe
 D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Debug\ExcelProcess.pdb
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Debug\ExcelProcess.Form2.resources
+D:\Projects\ExcelGitHub\excelmanagement\ExcelManagement\ExcelProcess\ExcelProcess\obj\Debug\ExcelProcess.FormPopup.resources
